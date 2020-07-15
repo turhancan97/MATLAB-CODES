@@ -1,6 +1,5 @@
 % Observing Damping Ratio Variation
 
-wn=1;
 zeta=2;
 y=tf([wn],[1 2*zeta*wn wn]);
 step(y);
@@ -10,6 +9,7 @@ y=tf([wn],[1 2*zeta*wn wn]);
 step(y);
 hold on
 zeta=0.5;
+wn=1;
 y=tf([wn],[1 2*zeta*wn wn]);
 step(y);
 hold on
