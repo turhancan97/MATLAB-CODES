@@ -1,2 +1,2 @@
 # MATLAB-CODES
-Here you can find the homeworks of Control Systems and Power Systems lecture homeworks.
+EEE302 Control Systems Lecture Homework Codes
